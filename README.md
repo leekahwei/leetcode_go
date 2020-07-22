@@ -15,4 +15,8 @@ Leetcode problems - `leetcode.com`
    > Runtime : `0ms - 100%`  
    > Memory  : `2.2MB - 18.69%`
 
+4. Distribute Candies - 22/7/20
+   > Runtime : `0ms - 100%`  
+   > Memory  : `2MB - 100%`
+
 More to go... :bowtie:
