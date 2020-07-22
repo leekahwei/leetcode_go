@@ -19,4 +19,12 @@ Leetcode problems - `leetcode.com`
    > Runtime : `0ms - 100%`  
    > Memory  : `2MB - 100%`
 
+5. Digital Root (reference from web) - 22/7/20
+   > Runtime : `4ms - 100%`  
+   > Memory  : `2MB - 100%`
+
+6. findAndReplacePattern (Brute Force way) - 23/7/20
+   > Runtime : `4ms - 14.81%`  
+   > Memory  : `2.6MB - 44.44%`
+
 More to go... :bowtie:
