@@ -25,8 +25,8 @@ func findAndReplacePattern(words []string, pattern string) []string {
 						foundCharMap[char] = difference
 					} else {
 						difference += 1
-						foundCharMap[char] = difference
 						patternCode += strconv.Itoa(difference)
+						foundCharMap[char] = difference
 					}
 				}
 			}
