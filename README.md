@@ -27,4 +27,8 @@ Leetcode problems - `leetcode.com`
    > Runtime : `4ms - 14.81%`  
    > Memory  : `2.6MB - 44.44%`
 
+7. Non-Decreasing Array - 2/8/20 :( so hard
+   > Runtime : `24ms - 87.04%`  
+   > Memory  : `6.3MB - 100.00%`
+
 More to go... :bowtie:
