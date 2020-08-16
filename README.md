@@ -43,5 +43,9 @@ Leetcode problems - `leetcode.com`
    > Memory : `3.7mb - 72.09%`
    > Remarks : `Learnt Gradient, two solutions provided, Dy/Dx solution refer from web`
 
+9. [860] Lemonade Change - 16/7/20
+   > Runtime : `12ms - 94.44%`
+   > Memory : `5.8mb - 100.00%`
+   > Remarks : `Hmmmmm, not sure what's the dynamic approach. O.O`
 
 More to go... :bowtie:
